@@ -5,7 +5,7 @@ An app that lists information about events
 People who are trying to find information about an event
 ​
 ## Experience
-A user opens the app... they search for an event and when they click on that even they will get information on that event, such as when it happens, it's origin ETC.
+A user opens the app... they search for an event and when they click on that event they will get information on that event, such as when it happens, it's origin ETC.
 ​
 # Technical
 ## Models
