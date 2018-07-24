@@ -9,7 +9,7 @@ A user opens the app... they search for an event and when they click on that eve
 ​
 # Technical
 ## Models
-I will be working with mostly API and Stack views. If I have time I will implement CoreData
+I will be working with mostly API and Table views. If I have time I will implement CoreData
 ​
 ## Views
 - I will create a main menu where you can select:
