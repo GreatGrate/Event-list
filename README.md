@@ -1,5 +1,5 @@
 # Event list
-An app that lists events and when they will happen.
+An app that lists information about events
 ​
 ## Audience
 People who are trying to find information about an event
