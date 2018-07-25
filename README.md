@@ -14,8 +14,8 @@ I will be working with mostly API and Table views.
 ## Views
 - I will create a main menu,
 - Country view(Because different countries have different/altered events),
-- After clicking on a country you select an event,
-- After clicking an event it will display information about that event.
+- Event view
+- Event info view
 ​
 ## Controllers
 ViewController
