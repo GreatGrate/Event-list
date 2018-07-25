@@ -12,18 +12,13 @@ A user opens the app... they search for an event and when they click on that eve
 I will be working with mostly API and Table views. If I have time I will implement CoreData
 ​
 ## Views
-- I will create a main menu where you can select:
-  - official events only
-  - created events only
-  - all events
+- I will create a main menu
 - Country view(Because different countries have different/altered events.)
 - After clicking on a country you select an event
 - After clicking an event it will display information about that event
-- A create event button in the menu
 ​
 ## Controllers
 ViewController
-CoreDataHelper
 (Possibly more I haven't thought of yet)
 ​
 ## Other
@@ -39,8 +34,6 @@ No other
 ## Week 5 - Finish Features
 - Fix bugs that will harshly effect experience
 - Move items to comfortable areas
-- Implement CoreData
-- Implement create event
 ​
 ## Week 6 - Polish
 - Icon
